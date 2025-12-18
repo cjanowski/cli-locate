@@ -36,4 +36,4 @@ cargo run
 3. Marks your location with a red dot (●) on the globe
 4. Displays coordinate grid points for reference
 
-Note: Location accuracy depends on your IP address and may not be precise for mobile networks or VPNs.
+Note: Location accuracy depends on your IP address(local machine) and may not be precise for mobile networks or VPNs.
